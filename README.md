@@ -88,9 +88,10 @@ Nodemon
 
 Git & GitHub
 
-📂 Project Structure
+## 📂 Project Structure
 
-wanderlust-fullstack
+```text
+wanderlust-fullstack/
 │
 ├── controllers/
 │   ├── listings.js
